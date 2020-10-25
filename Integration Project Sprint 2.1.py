@@ -48,6 +48,7 @@ def main():
     print("Favorite rhythm game is:", c, sep=' ')
     if g == 4 or d == 1:
         print("bruh why did you take this test." * 1)
+        # determines the amount of times the string is printed
     while e == 1 and f >= 1:
         print("Favorite rhythm game console: " + p)
         #adds the strings to form a single string
